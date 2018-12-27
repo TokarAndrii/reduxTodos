@@ -1,0 +1,34 @@
+.app {
+  text-align: center;
+}
+
+.appHeader {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.formTabs{
+  margin-top: 32px;
+}
+
+.btn{
+  cursor: pointer;
+  margin-left: 32px;
+  padding: 4px;
+  width: 150px;
+}
+
+.disabledBtn{
+  margin-left: 32px;
+  padding: 4px;
+  width: 150px;
+  cursor: pointer;
+  background-color: #cccccc;
+  color: #666666;
+}

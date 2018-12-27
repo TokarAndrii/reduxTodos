@@ -1,0 +1,20 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+
+.formRow{
+    margin-bottom: 16px;
+    width: 30vw;
+    height: 30px;
+    padding: 4px;
+  }
+
+  .btn{
+    height: 30px;
+    padding: 4px;
+    width: 150px;
+  }
